@@ -3,6 +3,10 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <IsPackable>true</IsPackable>
+    <PackageId>Lemoras.Api</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Onur Yasar</Authors>
+    <Company>Lemoras.com</Company>
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,7 +23,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.0" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.6.0" />
-    <PackageReference Include="Lemoras.Domain.Parts" Version="1.0.0" />
+    <PackageReference Include="Lemoras.Domain.Parts" Version="1.0.1" />
   </ItemGroup>
 
 </Project>

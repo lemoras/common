@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.0</TargetFramework>
+    <PackageId>Lemoras.Domain.Parts</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Onur Yasar</Authors>
+    <Company>Lemoras.com</Company>
   </PropertyGroup>
 
 </Project>
